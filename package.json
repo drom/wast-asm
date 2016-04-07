@@ -1,0 +1,22 @@
+{
+  "name": "wast-asm",
+  "version": "0.0.1",
+  "description": "Translation from [WebAST](https://github.com/drom/wast-spec) to WebAssembly [bytecode](https://github.com/WebAssembly/design/blob/master/BinaryEncoding.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/wast-asm.git"
+  },
+  "author": "Aliaksei Chapyzhenka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/wast-asm/issues"
+  },
+  "homepage": "https://github.com/drom/wast-asm#readme",
+  "devDependencies": {
+    "wast-spec": "^0.8.1"
+  }
+}
